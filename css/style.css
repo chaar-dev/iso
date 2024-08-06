@@ -1471,7 +1471,7 @@ footer>div:last-child>div:last-child {
   width: 105%;
 }
 #footerback{
-  background-image: url("/img/carousel-2.jpg");
+  background-image: url("img/carousel-2.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
